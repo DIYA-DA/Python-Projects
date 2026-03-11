@@ -1,39 +1,80 @@
 # 🔗 URL Shortener App (CLI + GUI)
 
-Convert long URLs into short links using TinyURL API.
+A simple URL Shortener built using Python and TinyURL API.  
+This application converts long URLs into short links.
+
+The project includes both **CLI (Terminal)** and **GUI (Tkinter)** versions.  
+It is a beginner-friendly project to learn API integration in Python.
 
 ---
 
 ## 🚀 Features
-✅ Shorten any URL
-✅ CLI + GUI versions
-✅ Copy to clipboard
-✅ API integration
-✅ Beginner friendly
+
+- 🔗 Shorten any long URL
+- 🌐 API integration using TinyURL
+- 🖥 CLI version
+- 🪟 GUI version using Tkinter
+- 📋 Copy short link to clipboard
+- 🧠 Beginner friendly code
+- 💬 Clean and simple logic
 
 ---
 
-## 🛠 Install
+## 🛠 Installation
+
+Install required libraries using:
+
 pip install -r requirements.txt
 
+Make sure Python 3.x is installed.
+
 ---
 
-## ▶ Run CLI
+## ▶ How to Run
+
+### ▶ Run CLI Version
+
 python cli_shortener.py
 
-## ▶ Run GUI
+---
+
+### ▶ Run GUI Version
+
 python gui_shortener.py
 
 ---
 
 ## 📚 Concepts Used
+
+This project uses important Python concepts:
+
 - API calls
-- requests
+- requests library
+- HTTP GET requests
 - Tkinter GUI
 - clipboard handling
-- HTTP GET requests
+- functions
+- conditions
+
+This project is useful for beginners learning real-world Python.
 
 ---
 
-## 🌟 Author
-Made with ❤️ while learning Python
+## 🎯 Purpose of This Project
+
+- Learn API integration
+- Understand HTTP requests
+- Practice GUI development
+- Build real-world mini project
+- Improve Python skills
+- Learn clipboard handling
+
+---
+
+## 👩‍💻 Author
+
+Diya Patel  
+
+Student | Python Learner | Machine Learning Enthusiast  
+
+⭐ If you like this project, consider giving it a star.
